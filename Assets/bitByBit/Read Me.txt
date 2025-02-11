@@ -1,0 +1,50 @@
+
+Thank you for using the bitByBit_ [8x8]...part of the bitByBit_ series' of assets on itch.io!
+
+Stuff to know - Animations
+
+Character animations
+
+- Each character has an Up-facing AND Down-facing sprite-sheet
+- Each Row of the sprite-sheet is a different animation
+- Each animation frame is 24x24 pixels
+- idle [quick sand] AND run [quick sand] are intended to be used along side the bitByBit_ [Desert Expansion, 8x8]
+
+Item Spawn animations
+
+- Each Row of the sprite-sheet is 6 different animations
+- Each animation is 5 frames
+- Each animation frame is 8x16 pixels
+
+Emote animations
+
+- Each Row of the sprite-sheet is a different animations
+- Each animation frame is 16x16 pixels
+
+All animations are listed on the webpage https://analogstudios.itch.io/bitbybit
+
+Stuff to know - Tileset
+
+Dungeon
+
+- Each tile is 8x8 pixels
+- Saw track, Spike and Fire/Ice Trap tiles are 8x8 pixels [part of the Saw/Fire Trap/Ice Trap/Traps sprite-sheets/tilesets]
+
+Animated tiles
+
+- Each Spikes animation frame is 8x8 pixels
+- Each Saw animation frame is 8x8 pixels
+- Each Fire Trap animation frame is 8x16 pixels
+- Each Ice Trap animation frame is 8x16 pixels
+- Each Chest animation frame is 24x24 pixels
+- Each Locked Door animation frame is 24x24 pixels
+- Each Campfire animation frame is 24x24 pixels
+
+Objects
+
+- Each object is 24x24 pixels [campfire, cauldron, chest & pot] except for Pillar/Furniture/Bookshelves [various sizes]
+- Pots have Open AND Closed sprites
+
+
+
+...if you have any questions or requests you can contact me at analogstudios.inc@gmail.com
